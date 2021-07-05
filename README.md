@@ -1,6 +1,6 @@
 Pushswap
 --------------------------------------
-### Using stack aand stack , sort the bnumbers entered as arguments on the stack ain ascending order.
+### Using stack a and stack , sort the b numbers entered as arguments on the stack a in ascending order.
 
 These are the functions that need to be implemented to run the program.
 - sa: swap a - Swapsa the top two elements of . (Does nothing when there are no elements or only one element.)
